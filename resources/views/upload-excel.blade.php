@@ -52,7 +52,7 @@
                                         </svg>
                                         </div>
                                         <div class="ml-3 flex-1 md:flex md:justify-between">
-                                            <p class="text-sm text-red-700">{{ session('success') }}</p>
+                                            <p class="text-sm text-red-700">{{ session('error') }}</p>
                                         </div>
                                     </div>
                                 </div>
