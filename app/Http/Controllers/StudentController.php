@@ -20,7 +20,7 @@ class StudentController extends Controller
 
     public function downloadTemplate()
     {
-        $filePath = storage_path('app/public/excel_templates/template-students.xlsx');
+        $filePath = storage_path('app/public/template-students.xlsx');
 
         return response()->download($filePath, 'template-students.xlsx');
     }
