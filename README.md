@@ -11,13 +11,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="200" src="https://github.com/nuramirahamzan95/code-challenge-developer/blob/main/storage/app/public/img-1.png"  />
 </div>
 
 ###
